@@ -1,0 +1,151 @@
+{
+    "buckets": [
+        {
+            "Name": "java",
+            "Source": "https://github.com/ScoopInstaller/Java",
+            "Updated": "2023-07-05T12:20:18+08:00",
+            "Manifests": 253
+        },
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2023-07-06T04:26:19+08:00",
+            "Manifests": 1207
+        }
+    ],
+    "apps": [
+        {
+            "Name": "7zip",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:19:34.5202593+08:00",
+            "Version": "23.01"
+        },
+        {
+            "Name": "aria2",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:20:23.2536361+08:00",
+            "Version": "1.36.0-1"
+        },
+        {
+            "Name": "busybox",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:20:01.2679672+08:00",
+            "Version": "5007-g82accfc19"
+        },
+        {
+            "Name": "cmake",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:20:47.988583+08:00",
+            "Version": "3.26.4"
+        },
+        {
+            "Name": "dark",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:21:11.5176384+08:00",
+            "Version": "3.11.2"
+        },
+        {
+            "Name": "ffmpeg",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:23:56.8450005+08:00",
+            "Version": "6.0"
+        },
+        {
+            "Name": "file",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:21:08.7523165+08:00",
+            "Version": "5.44"
+        },
+        {
+            "Name": "git",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:21:00.9263994+08:00",
+            "Version": "2.41.0.windows.1"
+        },
+        {
+            "Name": "gnupg",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:23:29.679+08:00",
+            "Version": "2.4.3"
+        },
+        {
+            "Name": "go",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:21:48.080841+08:00",
+            "Version": "1.20.5"
+        },
+        {
+            "Name": "innounp",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:21:21.6992922+08:00",
+            "Version": "0.50"
+        },
+        {
+            "Name": "llvm",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:23:12.5977019+08:00",
+            "Version": "16.0.6"
+        },
+        {
+            "Name": "mercurial",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:23:41.6193232+08:00",
+            "Version": "6.3.1"
+        },
+        {
+            "Name": "nasm",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T05:59:39.3308427+08:00",
+            "Version": "2.16.01"
+        },
+        {
+            "Name": "neofetch",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:32:39.2935746+08:00",
+            "Version": "7.1.0"
+        },
+        {
+            "Name": "nodejs-lts",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:09:55.6577542+08:00",
+            "Version": "18.16.1"
+        },
+        {
+            "Name": "openjdk",
+            "Source": "java",
+            "Info": "",
+            "Updated": "2023-07-06T06:09:13.4015001+08:00",
+            "Version": "20.0.1-9"
+        },
+        {
+            "Name": "openssl",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:03:23.2201428+08:00",
+            "Version": "3.1.1"
+        },
+        {
+            "Name": "python",
+            "Source": "main",
+            "Info": "",
+            "Updated": "2023-07-06T06:22:28.2688974+08:00",
+            "Version": "3.11.4"
+        }
+    ]
+}
