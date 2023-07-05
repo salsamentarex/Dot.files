@@ -15,9 +15,19 @@ function Set-Conda {
 }
 
 # Setup Env Variables
-$PATH = @("$HOME\AppData\Roaming\Python\Scripts")
+$PATH = @(
+        "$HOME\AppData\Roaming\Python\Scripts"
+        "$HOME\AKKAProgram\Development.Tool\flutter\bin"
+        )
 
 foreach ($i in $PATH) {
     $env:Path = $env:Path + ";" + $i
 }
 
+# Mirror Source
+## GoProxy
+$env:GO111MODULE = 'on'
+$env:GOPROXY = 'https://goproxy.cn'
+## Flutter
+$env:PUB_HOSTED_URL = 'https://mirrors.tuna.tsinghua.edu.cn/dart-pub'
+$env:FLUTTER_STORAGE_BASE_URL = 'https://mirrors.tuna.tsinghua.edu.cn/flutter'
